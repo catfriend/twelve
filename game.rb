@@ -12,8 +12,8 @@ class Game
 			end			
 			end
 			color_list.shuffle!
-			(0.5).each do |row|
-				(0.5).each do |column|
+			(0..5).each do |row|
+				(0..5).each do |column|
 					index = row * 6 + column
 					@squares.push Square.new(@window, column, row, color_list[index])
 				end
