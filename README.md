@@ -1,0 +1,1 @@
+This is a puzzle game I built while working through Gosu tutorials. The object is to drag like colored squares together. There are twelve of each color, and if one were very lucky one would theoretically wind up with all the like colored squares adding to twelve. Not being the world's most prolific game player I have not yet had this happen. Good ruby practice, though.
